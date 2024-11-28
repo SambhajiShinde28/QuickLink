@@ -16,15 +16,15 @@ QuickLink is a simple and efficient web application designed to convert long URL
 ### Screenshots
 
 <p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1p5Xxe5ufFyAVCgu1sfPjuXNxdzU41hme" alt="img" width="310" style="margin: 5px;">
-  <img src="https://drive.google.com/uc?export=view&id=1AN9F4joCfyRnx-ks-EjPKXrfNQHx4kxz" alt="img" width="310" style="margin: 5px;">
-  <img src="https://drive.google.com/uc?export=view&id=1zc3Lb0C6lkXYi2QnsiHmg2ubBmjAOvbz" alt="img" width="310" style="margin: 5px;">
-</p>
-
-<p align="center">
   <img src="https://drive.google.com/uc?export=view&id=1Q6NwHRAnzsKkBfShYSAocY9Y-NDb-7WW" alt="img" width="310" style="margin: 5px;">
   <img src="https://drive.google.com/uc?export=view&id=1SBc8JBfIiPkWrpvSjaScoV_iVGj3rK_q" alt="img" width="310" style="margin: 5px;">
   <img src="https://drive.google.com/uc?export=view&id=1lwA-HO32cLhu0fGF5ec9lZon7-aQ0so2" alt="img" width="310" style="margin: 5px;">
+</p>
+
+<p align="center">
+  <img src="https://drive.google.com/uc?export=view&id=1p5Xxe5ufFyAVCgu1sfPjuXNxdzU41hme" alt="img" width="310" style="margin: 5px;">
+  <img src="https://drive.google.com/uc?export=view&id=1AN9F4joCfyRnx-ks-EjPKXrfNQHx4kxz" alt="img" width="310" style="margin: 5px;">
+  <img src="https://drive.google.com/uc?export=view&id=1zc3Lb0C6lkXYi2QnsiHmg2ubBmjAOvbz" alt="img" width="310" style="margin: 5px;">
 </p>
 
 
@@ -34,7 +34,7 @@ QuickLink is a simple and efficient web application designed to convert long URL
 
 Click the image below to watch the project video
 
-[![Watch the video](https://drive.google.com/uc?export=view&id=1p5Xxe5ufFyAVCgu1sfPjuXNxdzU41hme)](https://drive.google.com/file/d/1NGmjoNpZWdKOjYU6bOJzFf_dEqV6WlQ8/view?usp=drive_link)
+[![Watch the video](https://drive.google.com/uc?export=view&id=1Q6NwHRAnzsKkBfShYSAocY9Y-NDb-7WW)](https://drive.google.com/file/d/1NGmjoNpZWdKOjYU6bOJzFf_dEqV6WlQ8/view?usp=drive_link)
 
 
 
