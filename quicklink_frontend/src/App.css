@@ -1,0 +1,147 @@
+*{
+  overflow: hidden;
+  margin: 0;
+  padding: 0;
+}
+
+body{
+  font-family: Arial, sans-serif;
+}
+
+.Main-container{
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  background-color: #f4f4f9;
+  overflow-y: scroll;
+}
+
+.header{
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  width: 100%;
+}
+
+.header h1{
+  margin: 40px 50px;
+  font-size: 24px;
+  color: #0077cc;
+}
+
+.container{
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.hero-section{
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  width: 45%;
+  gap:25px;
+}
+
+.hero-section h4{
+  font-size: 16px;
+  font-weight: bold;
+  color: #60b2ec;
+}
+
+.hero-section h1{
+  font-size: 32px;
+  font-weight: bold;
+  color: #035087;
+}
+
+.hero-section p{
+  font-size: 16px;
+}
+
+.url-section{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 45%;
+  gap:10px;
+  margin-top: 80px;
+}
+
+#long-url {
+  width: 300px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  outline: none;
+  color: #338bca;
+  font-size: 14px;
+  font-weight: bold;
+}
+
+#shorten-btn {
+  padding: 10px 20px;
+  background-color: #0077cc;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+
+.display-section{
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  width: 45%;
+  gap:10px;
+  margin-top: 40px;
+  margin-bottom: 30px;
+  padding-bottom: 30px;
+  border: 5px solid #b5cee1;
+  border-radius: 8px;
+  padding: 10px 0px 30px 0px;
+}
+
+.display-section h1{
+  font-size: 24px;
+  color: #4390c6;
+  padding: 20px 0px 10px 20px;
+}
+
+.urlcopy{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  gap: 5px;
+}
+
+.urlcopy input{
+  width: 80%;
+  padding: 8px 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  outline: none;
+  color: #035997;
+  font-size: 14px;
+  font-weight: bold;
+}
+
+#copyBTN{
+  padding: 10px 20px;
+  background-color: #0077cc;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-weight: bold;
+}
